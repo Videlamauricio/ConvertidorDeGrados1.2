@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertidorDeGrados1.2", "ConvertidorDeGrados1.2\ConvertidorDeGrados1.2.csproj", "{09F3E775-50ED-41BB-9211-D8802EBBC455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{ED553611-4579-47ED-9A45-9D1687258A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F3E775-50ED-41BB-9211-D8802EBBC455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F3E775-50ED-41BB-9211-D8802EBBC455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F3E775-50ED-41BB-9211-D8802EBBC455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F3E775-50ED-41BB-9211-D8802EBBC455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED553611-4579-47ED-9A45-9D1687258A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED553611-4579-47ED-9A45-9D1687258A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED553611-4579-47ED-9A45-9D1687258A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED553611-4579-47ED-9A45-9D1687258A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EAD1EF-1F4C-496D-8AC6-AB1E41CE0047}
+	EndGlobalSection
+EndGlobal
